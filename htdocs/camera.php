@@ -67,7 +67,7 @@
 			document.getElementById('upload_results').innerHTML = '<h1>Uploading...</h1>';
 			webcam.snap();
 			console.log('snapshotted');
-		}, 2000);
+		}, 3000);
 	
 	</script>
 	
